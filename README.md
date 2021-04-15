@@ -1,4 +1,4 @@
-Apellido: Chaubaci.
+Apellido: Chaubaci.n\
 Nombres: Iaser Daniel. 
 Materia: Algoritmos y estructura de datos.
 Curso: K1051. 
