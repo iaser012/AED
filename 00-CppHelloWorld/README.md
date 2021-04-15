@@ -1,2 +1,1 @@
-Iaser Daniel Chaubaci, K1051
-Legajo 177.153-0
+Ide Microsoft Code, compilador MinGW y editor de codigo fuente de Visual Estudio Code
