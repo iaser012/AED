@@ -1,1 +1,1 @@
-Ide Microsoft Code, compilador MinGW y editor de codigo fuente de Visual Estudio Code
+Chaubaci, Iaser Daniel. Algoritmos y estructura de datos, Curso K1051. Legajo 177.153-0
