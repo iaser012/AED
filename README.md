@@ -1,6 +1,6 @@
-Apellido: Chaubaci. \
-Nombres: Iaser Daniel. n\ 
-Materia: Algoritmos y estructura de datos. n\
-Curso: K1051. n\ 
-Legajo: 177.153-0 n\
+Apellido: Chaubaci. 
+Nombres: Iaser Daniel.  
+Materia: Algoritmos y estructura de datos. 
+Curso: K1051. 
+Legajo: 177.153-0 
 Año 2021
