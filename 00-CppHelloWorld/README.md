@@ -1,1 +1,1 @@
-Ide Microsoft Code, compilador MinGW y editor de codigo fuente de Visual Estudio Code
+Ide Microsoft Code, compilador MinGW g++  9.2.0
