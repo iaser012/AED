@@ -1,5 +1,4 @@
 #define NDEBUG
-#include <iostream>
 #include <cassert>
 using namespace std;
 int main () {
@@ -43,5 +42,5 @@ int main () {
     assert (string ("Riquelme"s).length()>5);
     assert (string("Boca"s)+string("Juniors"s)=="BocaJuniors"s);
 
-    cout << "ya esta";
+    
 }
